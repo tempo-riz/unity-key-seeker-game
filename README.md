@@ -2,7 +2,9 @@
 
 2d platformer playable with a xbox controller
 
-to extract files :
+to run simply run exe/Key Seeker.exe
+
+to extract project's files :
 
     cat sda1.backup.tar.gz.\* | tar xzvf -
 
